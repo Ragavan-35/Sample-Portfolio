@@ -1,6 +1,6 @@
 # 🌟 Personal Portfolio Website
 
-This is a simple **portfolio website** built using **HTML**, **CSS**, and **JavaScript**. It highlights my profile, skills, projects, and contact information. 
+This is a simple **portfolio website** built using **HTML**, **CSS**. It highlights my profile, skills, projects, and contact information. 
 The design is responsive and suitable for showcasing your personal or professional web presence.
 
 ---
@@ -21,7 +21,6 @@ This website includes the following main sections:
 
 - **HTML5** – Markup and layout
 - **CSS3** – Styling and responsiveness
-- **JavaScript** – Navbar interaction and basic logic
 - **Font Awesome** – Icons for social media and skills
 - **Boxicons** – Additional icons used in some sections
 
@@ -42,7 +41,7 @@ This website includes the following main sections:
 ## 📌 How to Use
 
 1. Download or clone this repository.
-2. Open the `index.html` ,`port.css` file in any browser.
+2. Open the `index.html` file in any browser.
 3. Edit the text, images, and links to match your profile.
 
 No backend setup or hosting required — it runs completely in the browser.
